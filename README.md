@@ -13,7 +13,7 @@ Data Structures & Algorithms
 
 ---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/kanikabansal14/) | [LeetCode](https://leetcode.com/u/kanikaa14/)
+
 
 
 <!--
